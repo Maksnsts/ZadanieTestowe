@@ -1,0 +1,20 @@
+{
+  "title": "Title",
+  "startDate": "2017-01-25",
+  "endDate": "2018-06-15",
+  "description": "Description",
+  "affiliation": {
+    "name": "string",
+    "id": "string"
+  },
+  "keywords": [
+    "keywords",
+    "keywords1"
+  ],
+  "invites": [
+    "invites",
+    "invites1"
+  ],
+  "inviteMessage": "inviteMessage",
+  "project": "project id"
+}
