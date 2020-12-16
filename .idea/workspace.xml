@@ -14,13 +14,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28dcd86f-435b-4669-9022-e5ffe1ac6993" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pl/org/bn/WebDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/org/bn/WebDriver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pl/org/bn/WebDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pl/org/bn/WebDriver.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +50,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1606233189587" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Project on IDEJa/SpringProject" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -171,6 +165,8 @@
       <option name="presentableId" value="Default" />
       <updated>1606213594619</updated>
       <workItem from="1606242042143" duration="1194000" />
+      <workItem from="1606243254257" duration="602000" />
+      <workItem from="1606466934587" duration="30000" />
     </task>
     <servers />
   </component>
@@ -187,6 +183,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="175" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606242923899">
@@ -197,6 +194,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="699" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1606242401082" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1606466965220">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1606466965220" />
     <state width="1877" height="347" key="GridCell.Tab.0.bottom" timestamp="1606243246557">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
